@@ -27,7 +27,7 @@ Eu me chamo Beatriz Gonçalves, estudante de Analise e Desenvolvimento de Sistem
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 # 🌎Onde me encontrar
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://beatrizgoncalves1251@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](beatrizgoncalves1251@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-dos-prazeres-gon%C3%A7alves-fazenda-da-silva/)
 <a href="https://beatrizgoncalves.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visite%20Aqui-purple" alt="Portfolio" width="150" height="28" border-radius="0">
