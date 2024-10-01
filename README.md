@@ -1,5 +1,5 @@
 ### Olá, Bem-vindo! 
-Eu me chamo Beatriz Gonçalves, estudante de Analise e Desenvolvimento de Sistemas no Rio de Janeiro, Brasil. 👋
+Eu me chamo Beatriz dos Prazeres Gonçalves. Sou estudante de Analise e Desenvolvimento de Sistemas no Rio de Janeiro, Brasil. 👋
 
 💡- Gosto de explorar novas tecnologias e inovar meus conhecimentos.
 
