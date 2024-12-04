@@ -5,7 +5,7 @@ Eu me chamo Beatriz dos Prazeres Gonçalves. Sou estudante de Analise e Desenvol
 
 🌱- Atualmente estou estudando Back-end com MySQL e PHP.
 
-❤️- Tecnologia e Design.
+❤️- Desenvolvimento Front End.
 
 # 📈Estatísticas
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatrizgon&show_icons=true&theme=tokyonight)
