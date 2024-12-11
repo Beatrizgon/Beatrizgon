@@ -3,7 +3,7 @@ Eu me chamo Beatriz dos Prazeres Gonçalves. Sou estudante de Analise e Desenvol
 
 💡- Gosto de explorar novas tecnologias e inovar meus conhecimentos.
 
-🌱- Atualmente estou estudando Back-end com MySQL e PHP.
+🌱- Atualmente estou estudando React.
 
 ❤️- Desenvolvimento Front End.
 
