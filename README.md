@@ -3,14 +3,14 @@ Eu me chamo Beatriz dos Prazeres Gonçalves. Sou estudante de Analise e Desenvol
 
 💡- Gosto de explorar novas tecnologias e inovar meus conhecimentos.
 
-🌱- Atualmente estou estudando React.
+🌱- Atualmente estou estudando Desenvolvimento para Aplicações Mobile.
 
 ❤️- Desenvolvimento Front End.
 
 # 📈Estatísticas
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatrizgon&show_icons=true&theme=tokyonight)
 
-# 👩🏻‍💻Tecnologias e ferramentas 
+# 👩🏻‍💻Tecnologias e Ferramentas 
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
