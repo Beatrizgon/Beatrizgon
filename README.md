@@ -3,7 +3,7 @@ Eu me chamo Beatriz dos Prazeres Gonçalves. Sou estudante de Analise e Desenvol
 
 💡- Gosto de explorar novas tecnologias e inovar meus conhecimentos.
 
-🌱- Atualmente estou estudando Desenvolvimento para Aplicações Mobile.
+🌱- Atualmente estou estudando Gerência de Projetos de Software.
 
 ❤️- Desenvolvimento Front End.
 
